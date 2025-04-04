@@ -845,6 +845,19 @@ form .btn2 {
   -----------------------TABLET----------------------- */
 
   @media screen and (max-width: 1000px) {
+
+    header {
+      position: fixed;
+      height: 3.125rem; /* 50px / 16px */
+    }
+  
+    header ul {
+      display: none;
+    }
+  
+    header .box-icons {
+      display: none;
+    }
   
     .hero-info h1 {
       font-size: 2.5rem; /* 40px / 16px */
@@ -889,6 +902,10 @@ form .btn2 {
         height: 65%;
         margin-top: 5%;
       }
+
+      .menu_icons{
+        display: block;
+     }
 
   }
 
