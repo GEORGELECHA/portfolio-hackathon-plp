@@ -790,7 +790,7 @@ form .btn2 {
 }
 
 .hero-vid-box video{
-    height: 64.25rem;
+    height: 50rem;
 }
 
 .scroll-down {
@@ -1003,6 +1003,14 @@ form .btn2 {
 
     .menu_icons{
         display: block;
+     }
+
+
+    .typing-container {
+
+      width: 8rem;
+
+
      }
 
 
